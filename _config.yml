@@ -21,9 +21,7 @@
 title: Linuxdenken
 email: sebastian@linuxdenken.de
 description: >- # this means to ignore newlines until "baseurl:"
-  Themen rund um Linux, Container, Virtuelle Systeme, Howtos und was mich sonst noch gerade bewegt.
-  Ich versuche Sachen auf den Punkt zu bringen und werde niemals Werbung für etwas machen hinter dem ich nicht stehe.
-  Bei Fragen könnt ihr mir gerne mailen.
+  Themen rund um Linux, Container, Virtuelle Systeme, Tutorials und Programmierung
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://waldenit.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: hr_walden
