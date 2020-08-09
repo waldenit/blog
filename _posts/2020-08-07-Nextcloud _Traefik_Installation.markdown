@@ -1,6 +1,13 @@
+---
+layout: post
+title:  "Nextcloud + Traefik Installation"
+date:   2020-08-07
+categories: jekyll update
+---
+
 ## 1. Traefik installieren
 
-Installation der Komponenten
+Installation der Software Komponenten
 
 ```bash
 sudo apt install curl git python3-pip apache2-utils
