@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ubuntu Loginscreen ändern"
+title:  "Ubuntu Login Screen ändern"
 date:   2020-08-09
 categories: jekyll update
 ---
