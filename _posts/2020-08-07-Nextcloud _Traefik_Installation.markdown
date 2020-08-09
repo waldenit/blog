@@ -109,7 +109,7 @@ echo $(htpasswd -nb EUERUSERNAME EUERPASSWORT) | sed -e s/\\$/\\$\\$/g
 ```
 
 ```bash
-ersion: '3'
+Version: '3'
 
 services:
   traefik:
