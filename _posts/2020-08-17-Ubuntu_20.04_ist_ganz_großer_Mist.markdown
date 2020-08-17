@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Ubuntu 20.04 ist ganz großer Mist"
+date:   2020-08-17
+categories: jekyll update
+---
+
+## Ich weiß echt nicht wieso das so viele installieren
+
+Die letzten Tage über hab ich Ubuntu 20.04 getestet auf meinem Thinkpad X13 AMD.
+
+Der erste Eindruck war alles andere als positiv. Dank des neuen AMD Ryzen 4650U bin ich auf einen neuen Kernel angewiesen, was mich zum Ubuntu-Mainline-Installer greifen lies. Installation läuft super und man kann ein paar Kernel ausprobieren, leider sind diese nicht sonderlich gut auf das System angepasst.
+
+#### Mal funktioniert dieses mal jenes
+Es ist eigentlich wie Lotto spielen, ob der Ruhezustand korrekt funktioniert oder man Hibernate verwenden kann. Dazu kommt das miserable Energiemanagement und die schlechte Performance des Prozessors unter Ubuntu 20.04
+
+#### Veraltete Software und komisches Update Verhalten
+
+Runden die Sache dann noch ab. APT installiert nicht alle Updates, der hauseigene Update-Manager möchte von Zeit zu Zeit noch was nachinstallieren ... 
+Von der alten Software fange ich erst garnicht an zu reden. Das kann man ja unter dem LTS Tag verbuchen.
+
+Ich halte die LTS Version nicht gerade für anfängerfreundlich, jedenfalls nicht mehr. Vielleicht ist auch nur 20.04 Schrott ich habe allerdings das Gefühl, dass sich die Distribution nicht gerade in die richtige Richtung entwickelt.
+
+Aber hey vielleicht ist auch der verunstaltete Gnome schuld. Mit KDE hab ich diese Probleme meistens nicht. Kubuntu werde ich aber so schnell nicht testen, dafür fehlt mir im Moment der Nerv ....
