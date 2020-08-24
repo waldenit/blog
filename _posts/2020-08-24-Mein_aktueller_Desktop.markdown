@@ -7,6 +7,6 @@ categories: jekyll update
 
 ## Mein aktueller Desktop
 
-openSuSe Tumbleweed KDE
+openSUSE Tumbleweed KDE
 
 ![image]({{ site.baseurl }}/assets/aktueller_desktop.png)
