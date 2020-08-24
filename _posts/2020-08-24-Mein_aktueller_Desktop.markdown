@@ -9,4 +9,4 @@ categories: jekyll update
 
 openSuSe Tumbleweed KDE
 
-![image]({{ site.baseurl }}/assets/aktueller_desktop_17.08.20.png)
+![image]({{ site.baseurl }}/assets/aktueller_desktop.png)
